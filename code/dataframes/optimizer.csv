@@ -1,0 +1,9 @@
+optimizer,exec_time,RMSE_train,RMSE_test,r^2_train,r^2_test
+<keras.optimizer_v2.gradient_descent.SGD object at 0x7f58a5f61310>,43.575,18.742,19.723,0.918,0.912
+<keras.optimizer_v2.rmsprop.RMSprop object at 0x7f58a67cdd30>,43.32,22.185,22.427,0.886,0.886
+<keras.optimizer_v2.adam.Adam object at 0x7f58a5f61280>,43.319,17.866,18.614,0.926,0.922
+<keras.optimizer_v2.adadelta.Adadelta object at 0x7f5895e47d00>,44.454,22.178,22.51,0.886,0.885
+<keras.optimizer_v2.adagrad.Adagrad object at 0x7f58a5f615e0>,42.314,18.109,18.884,0.924,0.919
+<keras.optimizer_v2.adamax.Adamax object at 0x7f58a6ee9cd0>,43.287,17.85,18.675,0.926,0.921
+<keras.optimizer_v2.nadam.Nadam object at 0x7f58a5f61100>,43.898,22.071,22.423,0.887,0.886
+<keras.optimizer_v2.ftrl.Ftrl object at 0x7f58a5f619a0>,41.71,22.077,22.438,0.887,0.886
